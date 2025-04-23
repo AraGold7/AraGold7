@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/him, his
 - ⚡ About me: young student, cat lover and playing badminton on my spare time
 
-- Discord invite: https://discord.gg/u4ndppjSfB
+
 
 <!---
 AraGold7/AraGold7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
