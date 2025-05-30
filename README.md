@@ -1,9 +1,12 @@
 # 👋 Hi, I’m @AraGold7
 - 👀 I’m interested in data, coding and electronics 
 - 🌱 I’m currently learning python, minecraft editing (like mods and datapacks), batch and powershell scripts 
-- 📫 How to reach me: open a ticket in my discord server
-- 😄 Pronouns: He/him, his
-- ⚡ About me: young student, cat lover and playing badminton on my spare time
+- 📫 How to reach me: open a ticket in my [discord server](https://discord.gg/u4ndppjSfB)
+- 😄 Pronouns: He/him 
+- ⚡ 3 facts about me:
+  * An young student 
+  * A cat lover
+  * In my free time I play badminton 
 
 
 
