@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AraGold7
 - 👀 I’m interested in data, coding and electronics 
-- 🌱 I’m currently learning python, minecraft editing (like mods and datapacks),batch and powershell scripts 
+- 🌱 I’m currently learning python, minecraft editing (like mods and datapacks), batch and powershell scripts 
 - 📫 How to reach me: open a ticket in my discord server
 - 😄 Pronouns: He/him, his
 - ⚡ About me: young student, cat lover and playing badminton on my spare time
